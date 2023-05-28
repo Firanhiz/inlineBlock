@@ -1,0 +1,53 @@
+* .header .main .footer {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#id {
+    /* display: inline; */
+    border: 3px solid black;
+    width: 200px;
+    height: 200px;
+    outline: 5px dotted red;
+    margin: 20px;
+    padding: 10px;
+    
+}
+
+.div-box {
+    /* display: inline; */
+    border: 3px solid red;
+    outline: 5px dotted black;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    padding: 10px;
+    
+}
+
+h3.visible {
+    visibility: visible;
+}
+
+h3.hidden {
+    visibility: hidden;
+}
+
+/* .container {
+    border: 1px solid black;
+
+} */
+
+.header {
+    background-color: aquamarine;
+}
+
+.main {
+    background-color: pink;
+}
+
+.footer {
+    background-color: aquamarine;
+}
+
